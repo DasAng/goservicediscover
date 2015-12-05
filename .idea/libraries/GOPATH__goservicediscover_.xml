@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;goservicediscover&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../scraper-project" />
+      <root url="file://$PROJECT_DIR$/../scraper-scheduler" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../scraperrules" />
+      <root url="file://$PROJECT_DIR$/../api-service" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../github.com/inconshreveable/mousetrap/.git" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in/mgo.v2/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/spf13/cobra/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/peterh/liner/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/russross/blackfriday/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/russross/blackfriday/.git" />
+      <root url="file://$PROJECT_DIR$/../scraper-scheduler/.vscode" />
+      <root url="file://$PROJECT_DIR$/../github.com/shurcooL/sanitized_anchor_name/.git" />
+      <root url="file://$PROJECT_DIR$/../scraperrules/.git" />
+      <root url="file://$PROJECT_DIR$/../scraper-scheduler/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/streadway/amqp/.git" />
+      <root url="file://$PROJECT_DIR$/../scraper-scheduler/.git" />
+      <root url="file://$PROJECT_DIR$/../scraper-project/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gorhill/cronexpr/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/dvsekhvalnov/jose2go/.git" />
+      <root url="file://$PROJECT_DIR$/../api-service/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gorilla/mux/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/sys/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/hashicorp/consul/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/spf13/pflag/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/derekparker/delve/dwarf/frame/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/hashicorp/consul/website/source/assets/javascripts/_app" />
+      <root url="file://$PROJECT_DIR$/../github.com/streadway/amqp/_examples" />
+      <root url="file://$PROJECT_DIR$/../github.com/derekparker/delve/_fixtures" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/cpuguy83/go-md2man/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/derekparker/delve/.git" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in/yaml.v2/.git" />
+    </excluded>
+  </library>
+</component>
